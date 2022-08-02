@@ -15,6 +15,7 @@
 </a>
 
 
+
 </br>
 </br>
 <p>🌱 I’m currently studying 4<sup>th</sup> year computer engineering at King Mongkut's University of Technology Thonburi </p>
@@ -34,5 +35,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📈 my github stats
+</br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thanapat2402&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+ <br />
+ <p align="center">
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thanapat2402&show_icons=true&theme=gotham" alt="thanapat" />
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanapat2402&layout=compact&theme=gotham" alt="thanapat" />
+</p>
+</details>
+
+
